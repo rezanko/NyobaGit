@@ -23,4 +23,12 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "NJAJAL BOR",Toast.LENGTH_LONG).show();
     }
+
+
+    public void nyobaNyoba(){
+        //hai
+        //bro
+        //haha
+        //popo
+    }
 }

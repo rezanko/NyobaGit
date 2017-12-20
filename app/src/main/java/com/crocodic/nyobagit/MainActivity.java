@@ -23,6 +23,14 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(this, "NJAJAL BOR",Toast.LENGTH_LONG).show();
     }
+    /**
+     *iki di gunakan untuk mengakses tombol back fisik
+     */
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
+
 
 
     public void nyobaNyoba(){
